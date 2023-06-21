@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Pembalap F1</string>
+    <string name="drivers_name">Nama Pembalap F1</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="team">Team</string>
+    <string name="detail_name">Nama Detail</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detail_desc">Deskripsi Detail</string>
+    <string name="about_name">Elang Sotya Putra Dumipta</string>
+    <string name="about_email">elangsotya@student.ub.ac.id</string>
+
+    <string-array name="data_name">
+        <item>Max Verstappen</item>
+        <item>Sergio Perez</item>
+        <item>Lewis Hamilton</item>
+        <item>George Russell</item>
+        <item>Carles Lecrec</item>
+        <item>Carlos Sainz</item>
+        <item>Lance Stroll</item>
+        <item>Fernando Alonso</item>
+        <item>Lando Norris</item>
+        <item>Oscar Piastri</item>
+    </string-array>
+
+    <string-array name="data_team">
+        <item>RedBull Racing</item>
+        <item>RedBull Racing</item>
+        <item>Mercedes</item>
+        <item>Mercedes</item>
+        <item>Ferrari</item>
+        <item>Ferrari</item>
+        <item>Aston Martin</item>
+        <item>Aston Martin</item>
+        <item>McLaren</item>
+        <item>McLaren</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Max Emilian Verstappen (pengucapan Belanda: [mɑks eːmiliɑn vɛrstɑpən]; lahir 30 September 1997) adalah seorang pembalap mobil profesional Belgia-Belanda, yang saat ini bersaing di bawah bendera Belanda di ajang balap Formula Satu dengan Red Bull Racing. Ia adalah putra dari mantan pembalap F1, Jos Verstappen.
+Di Grand Prix Australia 2015, di umur 17 tahun dan 166 hari, ia menjadi pembalap termuda yang berkompetisi dalam Formula Satu. Setelah menghabiskan musim 2015 dengan Toro Rosso, ia memulai musim 2016 bersama dengan tim asal Italia ini sebelum dipromosikan ke tim induk Toro Rosso, yaitu Red Bull, sebagai pengganti Daniil Kvyat. Ia kemudian memenangkan Grand Prix Spanyol 2016 dalam lomba pertamanya untuk Red Bull pada usia 18 tahun, dan menjadi pemenang termuda sebuah Grand Prix, dan menjadi pemenang balapan F1 yang paling pertama di bawah bendera Belanda. Setelah memenangkan Grand Prix Abu Dhabi 2021, ia menjadi pembalap Belanda pertama yang memenangkan kejuaraan dunia Formula Satu, dan merupakan juara dunia ke-34.
+Sampai Grand Prix Abu Dhabi 2022 , Verstappen telah memenangkan 35 balapan dan memperoleh 20 pole position. Ia memperoleh hat-trick pertamanya pada Grand Prix Prancis 2021 dan grand slam pertamanya pada Grand Prix Austria 2021. Verstappen akan tetap membalap untuk Red Bull paling tidak sampai akhir 2028.</item>
+        <item>Sergio Michel Pérez Mendoza (bahasa Spanyol: [ˈseɾxjo ˈpeɾes] ( simak); lahir 26 Januari 1990), dijuluki "Checo", merupakan seorang pembalap mobil professional asal Meksiko. Saat ini Pérez membalap di Formula Satu untuk Red Bull Racing, mendampingi Max Verstappen. Checo pernah membalap bersama dengan tim Sauber, McLaren, dan Force India (di musim 2019, sebelum berganti nama menjadi Racing Point, dan kemudian Aston Martin). Checo memenangkan balapan pertamanya di Grand Prix Sakhir 2020, dan mencetak rekor balapan terbanyak sebelum kemenangan dengan 190 start.
+Pérez bergabung dengan Ferrari Driver Academy sampai 2012. Ia membalap pertama kali di Formula Satu dengan Sauber saat musim 2011. Ia pertama kali naik podium saat Grand Prix Malaysia 2012 dengan Sauber. Pérez bergabung dengan McLaren untuk musim 2013. Di musim 2014, Mclaren memutuskan mengganti Pérez dengan Kevin Magnussen.
+Pérez bergabung dengan Force India untuk musim 2014 dengan kontrak senilai €15 juta. Dia tetap bersama Force India ketika tim tersebut berubah nama menjadi Racing Point di 2019. Di tahun 2019, Racing Point menandatangani kontrak 3 tahun dengan Pérez. Namun, di September 2020, Racing Point mengumumkan Pérez akan meninggalkan tim di akhir musim, dan Sebastian Vettel, 4 kali juara dunia, akan menggantikan posisinya. Kemudian, Pérez bergabung dengan Red Bull Racing untuk musim 2021, menggantikan Alex Albon. Pérez kemudian memenangkan Grand Prix Azerbaijan 2021 dengan tim tersebut dan mengamankan kemenangan balapan kedua dalam karir Formula Satunya.
+</item>
+        <item>Sir Lewis Carl Davidson Hamilton MBE (lahir 7 Januari 1985) adalah seorang pembalap profesional dari Britania Raya, yang saat ini membalap untuk Mercedes di Formula Satu. Sekarang, ia memiliki gelar dunia terbanyak, yakni 7 (dipegang bersama dengan Michael Schumacher), dan juga kemenangan (103), pole position (103), dan finis podium terbanyak (191).
+Lahir dan dibesarkan di Stevenage, Hertfordshire, Inggris, Hamilton bergabung di program pembalap muda McLaren pada 1998. Ini berujung pada Hamilton yang membalap untuk McLaren pada 2007 sampai 2012, membuat Hamilton pembalap berkulit hitam pertama, dan sejauh ini satu-satunya yang membalap di seri tersebut. Di debutnya, ia finis kedua di belakang Kimi Räikkönen dengan jarak satu poin. Musim berikutnya, ia memenangkan gelar pertamanya dengan kontroversial—dengan mendahului di putaran terakhir di balapan akhir musim—dan pada waktu itu menjadi juara dunia Formula Satu termuda dalam sejarah. Setelah 6 tahun lagi dengan McLaren, Hamilton bergabung dengan Mercedes pada 2013.
+Hamilton menikmati kesuksesan besar pada era mesin turbo-hybrid yang dimulai dari musim 2014, dimana ia memenangkan 6 gelar juara dunia. 2 gelar berturut-turut datang pada 2014 dan 2015 dengan persaingan ketat dengan rekan setimnya, Nico Rosberg. Setelah Rosberg pensiun, pembalap Ferrari, yaitu Sebastian Vettel, menjadi saingan terdekat Hamilton dalam dua pertarungan kejuaraan dunia yang intens, dan Hamilton dua kali membalikkan defisit poin pada pertengahan musim untuk mengklaim gelar juara dunia secara berturut-turut lagi pada 2017 dan 2018. 2 gelar lagi datang pada musim 2019 dan 2020, menyamai jumlah gelar Michael Schumacher.
+</item>
+        <item>George William Russell (/rʌsəl/; lahir 15 Februari 1998) adalah seorang pembalap mobil profesional Inggris yang saat ini membalap di ajang Formula Satu dengan Mercedes. Ia adalah Juara Formula 2 musim 2018 dan juara Seri GP3 musim 2017. Setelah memenangkan gelar Formula 2, ia membalap untuk Williams pada 2019, membuat debutnya di F1 pada Grand Prix Australia 2019 bersama Robert Kubica. Russell menggantikan Lewis Hamilton pada Grand Prix Sakhir 2020. Ia memperoleh podium pertamanya di Grand Prix Belgia 2021 bersama Williams. Setelah 3 tahun dengan Williams, Russell bergabung dengan Mercedes pada musim 2022, menggantikan Valtteri Bottas.
+</item>
+        <item>Charles Marc Hervé Percival Leclerc (pengucapan bahasa Prancis: [ʃaʁl ləklɛʁ], lahir 16 Oktober 1997) merupakan seorang pembalap mobil profesional dari Monako yang saat ini membalap di arena Formula Satu untuk tim Scuderia Ferrari. Ia merupakan juara Seri GP3 musim 2016 dan Formula 2 musim 2017. Leclerc naik kelas ke ajang Formula Satu di musim 2018 dengan bergabung bersama tim Sauber. Debutnya di ajang F1 dimulai di Australia 2018. Selama musim 2018 berjalan, Leclerc meraih 39 poin dan mengantar tim Sauber bangkit dari sebelumnya posisi dasar klasemen di 2017 menjadi naik ke posisi 8. Atas prestasinya tersebut, Leclerc kemudian mendapat promosi naik kelas ke tim Ferrari pada tahun 2019 untuk menggantikan Kimi Raikkonen dan menjadi rekan setim Sebastian Vettel.</item>
+        <item>Carlos Sainz Vázquez de Castro, biasa disapa sebagai Carlos Sainz, Jr. atau Carlos Sainz saja (lahir 1 September 1994) merupakan seorang pembalap mobil profesional asal Spanyol yang saat ini membalap di arena Formula Satu bersama tim Scuderia Ferrari. Ia merupakan putra dari mantan juara dunia Reli WRC, Carlos Sainz[2][3] dan juga keponakan dari Antonio Sainz yang juga berprofesi sebagai pereli profesional. Sainz Jr. memulai debutnya di ajang F1 pada Grand Prix Australia 2015 bersama tim Scuderia Toro Rosso yang mana ia juga menjadi bagian dari skema Red Bull Junior Team.
+Pada pertengahan musim 2017, Sainz Jr. dipinjamkan oleh manajemen Red Bull kepada tim Renault untuk membalap di musim 2018. Sebuah perjanjian khusus lantas dibuat oleh kedua tim dengan Sainz yang sesegera mungkin bergabung dengan Renault mulai lomba Grand Prix Amerika Serikat 2017 untuk menggantikan posisi Jolyon Palmer. Usai bertahan di Renault selama semusim, Sainz Jr. lantas direkrut oleh McLaren untuk menggantikan posisi Fernando Alonso mulai musim 2019 sekaligus mengakhiri kontraknya dengan manajemen Red Bull. Bersama McLaren ia sukses meraih podium pertamanya saat finis di urutan ketiga di lomba Grand Prix Brasil 2019. Pada bulan Mei 2020, Sainz Jr. direkrut oleh tim Scuderia Ferrari sebagai pengganti Sebastian Vettel mulai musim 2021.
+</item>
+        <item>Lance Strulovich (lahir 29 Oktober 1998), lebih dikenal dengan nama Lance Stroll, adalah seorang pembalap mobil profesional Belgia-Kanada, yang bersaing dengan bendera Kanada di dalam ajang Formula Satu. Ia sekarang membalap bersama dengan tim Aston Martin setelah sebelumnya membalap bersama dengan tim Williams dan Racing Point. Ia merupakan juara umum F4 Italia pada musim 2014, juara umum Toyota Racing Series pada musim 2015, dan juara umum FIA Formula 3 Eropa musim 2016. Ia masuk ke Akademi Pembalap Ferrari dari tahun 2010 sampai dengan tahun 2015. Ia naik podium untuk yang pertama kalinya, di posisi ke-3, di Grand Prix Azerbaijan 2017, menjadi pembalap termuda kedua di dalam sejarah ajang F1 yang berhasil naik ke atas podium dan yang termuda (dan yang terbaru per musim 2021) di musim pertamanya. Di Grand Prix Turki 2020, Stroll berhasil mengklaim posisi pole pertamanya di dalam ajang Formula Satu. Stroll juga pernah berkompetisi di dalam ajang balapan ketahanan, mengambil bagian di dalam ajang 24 Hours of Daytona pada musim 2016 dan 2018.
+</item>
+        <item>Fernando Alonso Díaz (pengucapan bahasa Spanyol: [feɾˈnando aˈlonso], akrab disapa Nando, lahir 29 Juli 1981) adalah seorang pembalap mobil profesional dari Spanyol. Ia sempat turun di ajang Formula Satu pada rentang waktu musim 2001, 2003 sampai 2018 dan pernah menjadi juara dunia termuda sepanjang sejarah F1 saat merebut gelar tahun 2005 dalam usia 24 tahun dan 59 hari, sehingga memecahkan rekor berumur 33 tahun milik Emerson Fittipaldi yang berusia 25 tahun dan 273 hari ketika meraih gelar juara dunia di musim 1972. Rekor tersebut dipecahkan Lewis Hamilton pada musim balap 2008 dan kemudian dipecahkan lagi oleh Sebastian Vettel di musim 2010. Alonso juga sempat menjadi pembalap termuda yang pernah menjuarai grand prix dan meraih pole position, masing-masing pada seri GP Hungaria 2003 dan GP Malaysia 2003, sebelum dipecahkan oleh Sebastian Vettel pada GP Italia 2008. Ia juga merupakan juara dunia F1 yang pertama dari Spanyol.
+Alonso mulai membalap dengan gokart pada umur 3 tahun. Ia lalu menjuarai kejuaraan gokart Spanyol pada tahun 1994-1997, dan sempat menjadi juara dunia gokart pada tahun 1996. Ia kemudian memulai debutnya di ajang balap F1 pada musim 2001 bersama tim Minardi, dan kemudian pindah ke tim Renault sebagai test driver pada tahun berikutnya. Mulai musim 2003 Alonso kemudian "naik kelas" menjadi pembalap utama tim asal Prancis tersebut. Setelah sempat "singgah" di tim McLaren pada musim 2007, Alonso kemudian kembali ke Renault selama dua musim pada 2008-2009, dan pada musim 2010 Alonso kemudian memperkuat tim Italia, Scuderia Ferrari. Di Ferrari, Alonso bertahan sampai akhir musim 2014 dengan prestasi tertinggi yaitu peringkat kedua klasemen di musim 2010 dan 2012. Pada musim 2015 Alonso kembali membalap untuk tim McLaren dan bertahan sampai akhir musim 2018. Usai dari ajang F1, Alonso melanjutkan karier balapannya di beberapa ajang diantaranya Seri IndyCar, FIA WEC dan IMSA.
+Kepandaian Alonso dalam mengolah strategi balapan, kepiawaiannya menaklukan trek basah dan kemampuannya dalam membangun serta menggeber mobil sampai batas maksimal sekalipun mobil tersebut secara spek kurang cepat dari para kompetitornya telah menempatkan Alonso sebagai salah satu pembalap terbaik yang pernah ada di arena Formula Satu era modern.
+</item>
+        <item>Lando Norris (/nɒrɪs/; lahir 13 November 1999) merupakan seorang pembalap mobil profesional berkewarganegaraan Inggris-Belgia. Ia sekarang berkompetisi di Formula Satu bersama tim McLaren. Kariernya di ajang junior cukup gemilang dengan berhasil memenangi gelar juara MSA Formula championship, Toyota Racing Series, Eurocup Formula Renault 2.0 dan Formula Renault 2.0 Northern European Cup di periode 2015-2016. Ia pernah bergabung dengan McLaren Young Driver Programme.
+Pada Februari 2017, Norris menjadi pembalap junior untuk McLaren. Pada tahun yang sama, Norris menguji untuk McLaren dalam sebuah pengujian tengah musim. Ia mencetak lap tercepat kedua di hari kedua pengujian di Hungaroring. Di akhir 2017, Norris menjadi pembalap penguji dan pengganti resmi McLaren untuk musim 2018. Norris berpartisipasi dalam sesi latihan resmi pertamanya di Grand Prix Belgia, dengan 26 putaran. Norris berpartisipasi dalam 6 sesi latihan lagi tahun itu.
+</item>
+        <item>Oscar Piastri (lahir 6 April 2001) adalah seorang pembalap asal Australia yang akan berkompetisi di Formula Satu pada musim 2023 bersama dengan McLaren, setelah sebelumnya menjadi pembalap cadangan untuk Alpine F1 Team dan menjadi anggota akademi pembalap tim tersebut.
+Piastri memenangkan Formula Renault Eurocup 2019 dengan R-ace GP, dan memenangkan Formula 3 musim 2020 dan Formula 2 musim 2020 dengan Prema Racing. Piastri adalah salah satu dari enam pembalap yang memenangkan kejuaraan GP2/Formula 2 dalam musim pertama mereka.
+Piastri bergabung dengan Akademi Olahraga Renault pada Januari 2020. Setelah memenangkan Kejuaraan FIA Formula 3, dia, bersama dengan Christian Lundgaard dan Zhou Guanyu yang juga merupakan anggota Akademi Olahraga Renault, mengambil bagian dalam sesi tes Formula Satu yang dilakukan oleh Renault F1 Team pada bulan Oktober. Mereka diberi kesempatan untuk mengendarai Renault R.S. 18 di Sirkuit Internasional Bahrain.
+Pada musim 2021, Piastri diumumkan bahwa dirinya tetap menjadi anggota Alpine Academy, nama baru dari Akademi Olahraga Renault setelah Renault F1 Team berganti nama menjadi Alpine F1 Team. Dirinya mendapat kesempatan untuk mengendarai Alpine A521 dalam tes akhir musim untuk pengemudi muda yang dilaksanakan di Sirkuit Yas Marina.
+Piastri diangkat menjadi pembalap cadangan untuk tim Alpine pada musim 2022 setelah memenangkan Kejuaraan FIA Formula 2 musim 2021. Piastri juga mendapat kesempatan menjadi pembalap cadangan untuk McLaren setelah Alpine menyetujui kontrak dengan McLaren.
+</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/max_verstappen</item>
+        <item>@drawable/sergio_perez</item>
+        <item>@drawable/lewis_hamilton</item>
+        <item>@drawable/george_russell</item>
+        <item>@drawable/charles_leclerc</item>
+        <item>@drawable/carlos_sainz</item>
+        <item>@drawable/lance_stroll</item>
+        <item>@drawable/fernando_alonso</item>
+        <item>@drawable/lando_norris</item>
+        <item>@drawable/oscar_piastri</item>
+    </integer-array>
+</resources>
